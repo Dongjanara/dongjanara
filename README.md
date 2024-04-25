@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=&height=300&section=header&text=DongHyunKim&fontSize=90&fontColor=ffffff&align=center&text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=&height=300&section=header&text=DongHyunKim&fontSize=90&fontColor=ffffff&align=center&animation=fadeIn)
+
 
 <div align="center">
 안녕하세요. 👋 <br>
